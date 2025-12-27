@@ -21,7 +21,7 @@ Most finance apps are either too complex (Firefly III) or too simple (basic expe
 
 ## Quick Start
 ```bash
-git clone https://github.com/TakashiSeven/NinjaCash.git
+git clone https://github.com/TakashiKyoto/NinjaCash.git
 cd NinjaCash/apps/web
 npm install
 npm run dev
@@ -58,7 +58,7 @@ Open http://localhost:5173
 
 ## Author
 
-**Takashi Kyoto** - [GitHub](https://github.com/TakashiSeven) | [YouTube](https://youtube.com/@TakashiKyoto)
+**Takashi Kyoto** - [GitHub](https://github.com/TakashiKyoto) | [YouTube](https://youtube.com/@TakashiKyoto)
 
 ## License
 
