@@ -18,9 +18,23 @@ Most finance apps are either too complex (Firefly III) or too simple (basic expe
 - **Quick entry** - Add transactions in seconds with the numpad interface
 - **Categories & budgets** - Track spending by category, set monthly limits
 - **Recurring transactions** - Auto-track subscriptions and regular payments
-- **Import/Export** - CSV and JSON support for backup and migration
+- **Universal Import** - Drag-and-drop support for OFX, QFX, QIF, CSV, JSON
+- **Smart Detection** - Auto-detects 14+ banks (Chase, BofA, Wells Fargo, etc.)
+- **1Money Migration** - Full support for 1Money app exports with multi-account import
+- **Backup/Restore** - Full JSON backup and restore across devices
 - **9 dark themes** - Tokyo Night, Dracula, Nord, and more
+- **Privacy mode** - Hide balances and income when viewing in public
 - **PWA** - Install on phone or desktop, works like a native app
+
+## Import Support
+
+| Format | Features |
+|--------|----------|
+| **OFX/QFX** | Bank standard, duplicate prevention via FITID |
+| **QIF** | Quicken Interchange Format |
+| **CSV** | 14+ bank presets with auto-detection |
+| **JSON** | NinjaCash backup restore |
+| **1Money** | Multi-account, transfers, footer balances |
 
 ## Data Privacy
 
