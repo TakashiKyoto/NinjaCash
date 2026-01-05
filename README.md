@@ -22,35 +22,12 @@ Most finance apps are either too complex (Firefly III) or too simple (basic expe
 - **9 dark themes** - Tokyo Night, Dracula, Nord, and more
 - **PWA** - Install on phone or desktop, works like a native app
 
-## Screenshots
-
-| Accounts | Transactions | Analytics |
-|----------|--------------|-----------|
-| Track all accounts at a glance | Date-grouped transaction list | Spending breakdown by category |
-
-## Tech Stack
-
-- **Frontend:** React 18 + TypeScript + Vite
-- **Local Storage:** IndexedDB via Dexie.js
-- **Backend:** Hono + Prisma + PostgreSQL (hosted on Railway)
-- **Hosting:** Cloudflare Pages (frontend), Railway (API)
-- **Auth:** Google OAuth via Supabase
-
 ## Data Privacy
 
-- All data stored locally in your browser (IndexedDB) by default
-- Optional cloud sync uses encrypted database (AES-256)
+- All data stored locally in your browser by default
+- Optional cloud sync uses encrypted database
 - No ads, no selling your data
 - Delete your account and all data anytime
-
-## Roadmap
-
-- [x] Recurring transactions
-- [x] Android app (PWA - in beta)
-- [x] CSV import/export
-- [x] JSON import/export
-- [ ] Bill reminders
-- [ ] Budget alerts
 
 ## Links
 
