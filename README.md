@@ -18,7 +18,7 @@ Most finance apps are either too complex (Firefly III) or too simple (basic expe
 - **Quick entry** - Add transactions in seconds with the numpad interface
 - **Categories & budgets** - Track spending by category, set monthly limits
 - **Recurring transactions** - Auto-track subscriptions and regular payments
-- **Import from 1Money** - Migrate your existing data via CSV
+- **Import/Export** - CSV and JSON support for backup and migration
 - **9 dark themes** - Tokyo Night, Dracula, Nord, and more
 - **PWA** - Install on phone or desktop, works like a native app
 
@@ -47,9 +47,10 @@ Most finance apps are either too complex (Firefly III) or too simple (basic expe
 
 - [x] Recurring transactions
 - [x] Android app (PWA - in beta)
+- [x] CSV import/export
+- [x] JSON import/export
 - [ ] Bill reminders
 - [ ] Budget alerts
-- [ ] CSV export
 
 ## Links
 
