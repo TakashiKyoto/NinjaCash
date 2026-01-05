@@ -2,6 +2,8 @@
 
 Personal finance tracking that works offline. A progressive web app for managing income, expenses, and budgets without spreadsheets or subscriptions.
 
+**Try it:** [ninjacash.app](https://ninjacash.app) *(Open Beta)*
+
 ## Why NinjaCash?
 
 Most finance apps are either too complex (Firefly III) or too simple (basic expense trackers). NinjaCash sits in the middle - powerful enough to track multiple accounts and currencies, simple enough to use daily.
