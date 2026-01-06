@@ -51,4 +51,6 @@ Most finance apps are either too complex (Firefly III) or too simple (basic expe
 
 ## Support
 
-For questions or issues, email support@ninjacash.app
+For questions, bug reports, or feature requests, please open an issue:
+
+- **GitHub Issues:** [github.com/TakashiKyoto/ninjacash/issues](https://github.com/TakashiKyoto/ninjacash/issues)
